@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "0.1.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.1/Nexora-Consult-Setup-0.1.1.exe",
-    "sha256": "9ad437593204baf69f60ef237f810d3143deefe2bb526e562ccffc3619429d3c",
-    "sizeBytes": 120807983,
-    "notes": "Every wrong entry the integrity check found is refused; a project on hold takes no new time; over a line's fee asks first; GST number double-check hint; windows move as on a Mac",
-    "publishedAt": "2026-11-05T17:55:51.834Z",
-    "sig": "MEUCIQDSRYnHiTSSuCJ+6JPWKg69UCys29nZfhFVyLwiPIlWYwIgSlrksRxV5RdC1M1gXvUCXMH4vvEfI7xDg+01CC5ETd8=",
-    "sig2": "MEUCIQCXA5cZ0KniKh4jGyhYoYr4TjIlaJe3O8GMyxiwMbL2tQIgcxvkNs7/s5Q0oh12g69wrPdsH2OQrw0ZzVDGl/Nyy7w="
+    "version": "0.1.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.2/Nexora-Consult-Setup-0.1.2.exe",
+    "sha256": "4b9d174dcec8c5f45ac7bb95087144cc5234445b5e9d9b5ad0b255eacb3f1c8e",
+    "sizeBytes": 120971763,
+    "notes": "Document Studio as Word and Excel, full screen anywhere, module colours, drop-downs and tables as the ERP, demo data",
+    "publishedAt": "2026-11-10T09:23:03.991Z",
+    "sig": "MEUCIQD/xoZicLnXEsY8NRdJXji9/BmdW1xADKadN4ryZ6vIFQIgakFUmMtPgRAh2jugkxjzNMHiWuoPyN5Pgi8iS4m2Qys=",
+    "sig2": "MEYCIQDDjPBbbRb0kMuPvOnivK6A1CantKXS45pAqxqIO6A7dgIhAJLyudxUm893f74a3XfSg/klvahX2tSHFOmoSfdWIF2H"
   },
-  "updatedAt": "2026-11-05T17:55:51.834Z"
+  "updatedAt": "2026-11-10T09:23:03.991Z"
 }
