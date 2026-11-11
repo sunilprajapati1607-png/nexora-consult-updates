@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "0.1.2",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.2/Nexora-Consult-Setup-0.1.2.exe",
-    "sha256": "4b9d174dcec8c5f45ac7bb95087144cc5234445b5e9d9b5ad0b255eacb3f1c8e",
-    "sizeBytes": 120971763,
-    "notes": "Document Studio as Word and Excel, full screen anywhere, module colours, drop-downs and tables as the ERP, demo data",
-    "publishedAt": "2026-11-10T09:23:03.991Z",
-    "sig": "MEUCIQD/xoZicLnXEsY8NRdJXji9/BmdW1xADKadN4ryZ6vIFQIgakFUmMtPgRAh2jugkxjzNMHiWuoPyN5Pgi8iS4m2Qys=",
-    "sig2": "MEYCIQDDjPBbbRb0kMuPvOnivK6A1CantKXS45pAqxqIO6A7dgIhAJLyudxUm893f74a3XfSg/klvahX2tSHFOmoSfdWIF2H"
+    "version": "0.1.3",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.3/Nexora-Consult-Setup-0.1.3.exe",
+    "sha256": "fe5700cfc2ed0cf5563ed55c14ce33b709cfdb94b47cd9059868d6893cf12ce9",
+    "sizeBytes": 120990649,
+    "notes": "Every page its own window (no tabs); Doc: tables (rows, columns, merge, colour, delete) and flow chart shapes (select, move, size, text, colours, delete, insert); Find & Replace searches every Word and Excel document; demo data in the Test company (Load, Wipe).",
+    "publishedAt": "2026-11-11T11:56:20.577Z",
+    "sig": "MEYCIQDuclDjONOWahv62zHJIQ68dV8NGz1gWC/xvQtl3kfIlAIhAIJR0EsZ+1rVPj0ZvJ8n8LAYPf1qZpqrn1buL+KCz8do",
+    "sig2": "MEUCIGyY2gMBXzhjTuNGlLE5ZaKFF7b0M9PFZoxYnCinR+VEAiEAohWk6CXgAw/s48k7tp+CrBXIiviwNCUNbGZHuARqyao="
   },
-  "updatedAt": "2026-11-10T09:23:03.991Z"
+  "updatedAt": "2026-11-11T11:56:20.577Z"
 }
