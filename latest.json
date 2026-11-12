@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "0.1.5",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.5/Nexora-Consult-Setup-0.1.5.exe",
-    "sha256": "70f1a2e2d4c1ee087a2d54a65184de0421a371074c057528cd617a949b491930",
-    "sizeBytes": 121007107,
-    "notes": "Nexora AI opens a window by itself only when it makes something (a new record, a copy, Make project, Remind …); anything else is a link in Nexora AI's window — it opens when you click it.",
-    "publishedAt": "2026-11-12T09:01:04.391Z",
-    "sig": "MEYCIQCATkVIk+qGjofKyNc35ORF11z5vhwIgzatjVD84P6HXQIhALXyGqifvMG4Xqk+qnQb6Y2YeD34Pi83DAoHmNYg7sVi",
-    "sig2": "MEUCIQClVJbsk3Y5Qh9fEGjcJz2hu+wZfpuvONVPM1lh9WVDJQIgCuLPPDaq/CKc0S7vF/WAxBdvGpMtWDW4vTfW5/Pcjos="
+    "version": "0.1.6",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.6/Nexora-Consult-Setup-0.1.6.exe",
+    "sha256": "f43d1794dd1897933169327537c0f139e6081069aff1110930be691cc2c2a952",
+    "sizeBytes": 121017528,
+    "notes": "Nexora AI more powerful: today's timesheet, a new client and every client's reminder by itself; everyday Gujlish questions answered at once; a grouped answer's biggest / top three / month change; Doc's AI tab writes, shortens, simplifies, translates, summarises, checks against a clause and answers questions. Ctrl+K searches the menu.",
+    "publishedAt": "2026-11-12T17:24:18.179Z",
+    "sig": "MEUCIQDDk9FdfzcLLYui78vnek2Og/BO+VYFXIwfkxLhHterEgIgA/7VYjvXl3wZW2YWqIBuBNJkT+pKcRj7OxQ4JWLqmPY=",
+    "sig2": "MEQCIDRsZFnv1y4ssffr9nzjCtwCOpV795jCCyDGooBveiW8AiBCub+4IMHhATUpHVMWS6b3lA70pgym9ZcSPkGuauuv2g=="
   },
-  "updatedAt": "2026-11-12T09:01:04.391Z"
+  "updatedAt": "2026-11-12T17:24:18.179Z"
 }
