@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "0.1.4",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.4/Nexora-Consult-Setup-0.1.4.exe",
-    "sha256": "7a636cfa3ba3acbc0a2099cbe8807a5945a6aef9853e0946ba1d61ac2c6492ad",
-    "sizeBytes": 121007144,
-    "notes": "Doc shows a Word manual as Word does: Visio flow charts and photos kept as EMF pictures, SmartArt, cropped pictures, the page border, the page flow; rulers along the top and the left of Doc.",
-    "publishedAt": "2026-11-12T06:36:12.453Z",
-    "sig": "MEYCIQCKuTH+IJUWzMG7/b2Kfv2DPL556M6xjGiPso17LHH9TgIhANoBPjbczeo/pjZT4yjxss/UEjut4NHN834WTqe2ZkpE",
-    "sig2": "MEQCIQDImbordAxjh53f46J1XpLIVIgynq7CUO8HUvx4OHk/GgIfNEWsn07mXeVrnEpAC2xa33rLHufQ3ij+w6F7eZl+Kw=="
+    "version": "0.1.5",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.5/Nexora-Consult-Setup-0.1.5.exe",
+    "sha256": "70f1a2e2d4c1ee087a2d54a65184de0421a371074c057528cd617a949b491930",
+    "sizeBytes": 121007107,
+    "notes": "Nexora AI opens a window by itself only when it makes something (a new record, a copy, Make project, Remind …); anything else is a link in Nexora AI's window — it opens when you click it.",
+    "publishedAt": "2026-11-12T09:01:04.391Z",
+    "sig": "MEYCIQCATkVIk+qGjofKyNc35ORF11z5vhwIgzatjVD84P6HXQIhALXyGqifvMG4Xqk+qnQb6Y2YeD34Pi83DAoHmNYg7sVi",
+    "sig2": "MEUCIQClVJbsk3Y5Qh9fEGjcJz2hu+wZfpuvONVPM1lh9WVDJQIgCuLPPDaq/CKc0S7vF/WAxBdvGpMtWDW4vTfW5/Pcjos="
   },
-  "updatedAt": "2026-11-12T06:36:12.453Z"
+  "updatedAt": "2026-11-12T09:01:04.391Z"
 }
