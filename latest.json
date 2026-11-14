@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "0.1.6",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.6/Nexora-Consult-Setup-0.1.6.exe",
-    "sha256": "f43d1794dd1897933169327537c0f139e6081069aff1110930be691cc2c2a952",
-    "sizeBytes": 121017528,
-    "notes": "Nexora AI more powerful: today's timesheet, a new client and every client's reminder by itself; everyday Gujlish questions answered at once; a grouped answer's biggest / top three / month change; Doc's AI tab writes, shortens, simplifies, translates, summarises, checks against a clause and answers questions. Ctrl+K searches the menu.",
-    "publishedAt": "2026-11-12T17:24:18.179Z",
-    "sig": "MEUCIQDDk9FdfzcLLYui78vnek2Og/BO+VYFXIwfkxLhHterEgIgA/7VYjvXl3wZW2YWqIBuBNJkT+pKcRj7OxQ4JWLqmPY=",
-    "sig2": "MEQCIDRsZFnv1y4ssffr9nzjCtwCOpV795jCCyDGooBveiW8AiBCub+4IMHhATUpHVMWS6b3lA70pgym9ZcSPkGuauuv2g=="
+    "version": "0.1.7",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v0.1.7/Nexora-Consult-Setup-0.1.7.exe",
+    "sha256": "1b9b176781cc86b55b4640533c9ddd0bd42341143570eab3099b36165b6ef340",
+    "sizeBytes": 121058188,
+    "notes": "Document Studio takes any file (PDF, photos, PowerPoint, CSV, text, old .doc — chosen or dropped); Doc shows and makes Word's lists, page numbers, Contents, comments; Sheet has Filter, conditional colours, notes, sizes by dragging; a Start screen, the Library's preview and right-click menu.",
+    "publishedAt": "2026-11-14T06:11:33.695Z",
+    "sig": "MEYCIQD/hpHKBT9m0k/XePCEwJJMGTaFCVGqvuYCnlR3fU4sQAIhAL/wcgUxxDcCR1FpgFLfgiqF2iIVpSLk/V+/VOAJLf/s",
+    "sig2": "MEUCIQDh6DSmtrZyEAhqfF6hJyAaChPs0/wEMijXzhHvWciT2AIgRQpirsRzUmsua7IC+cOo6G0fyBoOWqK0i7CoBwOlPd0="
   },
-  "updatedAt": "2026-11-12T17:24:18.179Z"
+  "updatedAt": "2026-11-14T06:11:33.695Z"
 }
