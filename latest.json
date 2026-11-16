@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "2.0.0",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v2.0.0/Nexora-Consult-Setup-2.0.0.exe",
-    "sha256": "97de23620fcc96e91cb6d009056355f8f82c1dc488624745554e048d67012199",
-    "sizeBytes": 121089840,
-    "notes": "Stages and visits: Masters > Stage master (one list of stages); a service ticks its stages from it; a project gets its services' stages and may add, move or delete them for itself; Calendars > Calendar in the man-day calendar's place — + on a date books a visit (blue planned, amber confirmed, green closed, pink certification audit, red missed); double-click a visit to close it with its stages and its expenses (bill photo, charge to the client). The man-day calendar is the Calendar's Consultants view.",
-    "publishedAt": "2026-11-15T18:06:57.021Z",
-    "sig": "MEYCIQDj+WJ7JKW2xl2mW1BRilBwLQyd13RWHRROZcFc8jpHBgIhAN/qOu41ozb1c8sTTVAI5YaQPfiFYtQLhToOu6RpT8mZ",
-    "sig2": "MEQCIC+pFl345pVLx7SKvpQ05AJKzNQdkDBQBua+4seMcwnsAiAWRt04VxglKyYOIuH6ael7KRZnb5VOrUgCj0dVf5L9gA=="
+    "version": "2.0.1",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v2.0.1/Nexora-Consult-Setup-2.0.1.exe",
+    "sha256": "afbc7f69eaf39a13d8a708320421257e12b77eebf4fe420446d76bb34e08940b",
+    "sizeBytes": 121090735,
+    "notes": "On the Calendar, man-days booked without a visit (everything booked before 2.0.0) whose date has passed are grey, not red Missed, and are not listed under To close. Only a visit booked on the Calendar that was not closed is Missed.",
+    "publishedAt": "2026-11-16T03:29:08.412Z",
+    "sig": "MEYCIQCigX20lwprMVIDdMuNxIZy9Q5G2mzi/fxdF+XWEMGfLgIhAJJTyat4Bq/NHmbbAuRtWXO8DKFE1S/9YAybk1COC4We",
+    "sig2": "MEYCIQCmHFR603ljbQ/S9yuE0bfwGZnLvYgPEu150e71CorbyAIhAI6E8DguyvDZMFWbtxm0RNtTjD8/st2SObiNJ5hyAHYF"
   },
-  "updatedAt": "2026-11-15T18:06:57.021Z"
+  "updatedAt": "2026-11-16T03:29:08.412Z"
 }
