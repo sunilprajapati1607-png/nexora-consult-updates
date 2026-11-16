@@ -1,14 +1,14 @@
 {
   "product": "Nexora Consult",
   "desktop": {
-    "version": "2.0.1",
-    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v2.0.1/Nexora-Consult-Setup-2.0.1.exe",
-    "sha256": "afbc7f69eaf39a13d8a708320421257e12b77eebf4fe420446d76bb34e08940b",
-    "sizeBytes": 121090735,
-    "notes": "On the Calendar, man-days booked without a visit (everything booked before 2.0.0) whose date has passed are grey, not red Missed, and are not listed under To close. Only a visit booked on the Calendar that was not closed is Missed.",
-    "publishedAt": "2026-11-16T03:29:08.412Z",
-    "sig": "MEYCIQCigX20lwprMVIDdMuNxIZy9Q5G2mzi/fxdF+XWEMGfLgIhAJJTyat4Bq/NHmbbAuRtWXO8DKFE1S/9YAybk1COC4We",
-    "sig2": "MEYCIQCmHFR603ljbQ/S9yuE0bfwGZnLvYgPEu150e71CorbyAIhAI6E8DguyvDZMFWbtxm0RNtTjD8/st2SObiNJ5hyAHYF"
+    "version": "2.0.2",
+    "url": "https://github.com/sunilprajapati1607-png/nexora-consult-updates/releases/download/v2.0.2/Nexora-Consult-Setup-2.0.2.exe",
+    "sha256": "89360856a14c4f8dfa7774e1b8bef8a725999d531b792aabdb321f13f98b904a",
+    "sizeBytes": 121096718,
+    "notes": "The Calendar's day filled with its project's pure colour (one visit one colour, two visits two; raised rounded blocks; a light for the status), a Both view (the month over the consultants' free days), times typed plainly in 10-minute steps (1030 = 10:30), one look for every field, the expense line of a vehicle, the menu in the order of the work.",
+    "publishedAt": "2026-11-16T11:24:59.866Z",
+    "sig": "MEUCIQCNIeC5z7PVFsU0R4TITpQ+AGMlEkwYTsyhz+IfyrMspgIgYHN82aGcQc5LPZH4y5Bhe1oeQczpsSw0cAFPeP93a1A=",
+    "sig2": "MEUCIQDqi3hLoiqfh9ZdC0iPNwWvzaqtj6Hc/laKivxPVKy5kwIgSnMiB7smYaRxt8bPVZFmQT6Gz0nL1sMzOO9Le7bYWY4="
   },
-  "updatedAt": "2026-11-16T03:29:08.412Z"
+  "updatedAt": "2026-11-16T11:24:59.866Z"
 }
